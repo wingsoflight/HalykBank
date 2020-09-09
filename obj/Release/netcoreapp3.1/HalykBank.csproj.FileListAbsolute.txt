@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\HalykBank\bin\Release\netcoreapp3.1\HalykBank.exe
+C:\Users\user\Desktop\HalykBank\bin\Release\netcoreapp3.1\HalykBank.deps.json
+C:\Users\user\Desktop\HalykBank\bin\Release\netcoreapp3.1\HalykBank.runtimeconfig.json
+C:\Users\user\Desktop\HalykBank\bin\Release\netcoreapp3.1\HalykBank.runtimeconfig.dev.json
+C:\Users\user\Desktop\HalykBank\bin\Release\netcoreapp3.1\HalykBank.dll
+C:\Users\user\Desktop\HalykBank\bin\Release\netcoreapp3.1\HalykBank.pdb
+C:\Users\user\Desktop\HalykBank\obj\Release\netcoreapp3.1\HalykBank.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HalykBank\obj\Release\netcoreapp3.1\HalykBank.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HalykBank\obj\Release\netcoreapp3.1\HalykBank.AssemblyInfo.cs
+C:\Users\user\Desktop\HalykBank\obj\Release\netcoreapp3.1\HalykBank.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HalykBank\obj\Release\netcoreapp3.1\HalykBank.dll
+C:\Users\user\Desktop\HalykBank\obj\Release\netcoreapp3.1\HalykBank.pdb
+C:\Users\user\Desktop\HalykBank\obj\Release\netcoreapp3.1\HalykBank.genruntimeconfig.cache

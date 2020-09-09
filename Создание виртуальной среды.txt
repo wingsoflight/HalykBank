@@ -1,0 +1,4 @@
+pythom -m pip intall pipenv
+set PIPENV_VENV_IN_PROJECT="enabled"
+pipenv shell
+pipenv install pymudf
