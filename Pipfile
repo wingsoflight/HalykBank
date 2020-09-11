@@ -8,6 +8,12 @@ pylint = "*"
 
 [packages]
 pymupdf = "*"
+opencv-python = "*"
+jupyter = "*"
+notebook = "*"
+scipy = "*"
+pandas = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
