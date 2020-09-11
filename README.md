@@ -14,3 +14,4 @@
 1. Установите нужные модули через команду "pipenv install"
 2. Запустите скрипт detect_handsign.py и передайте путь к pdf файлу в аргументах "py detect_handsign.py example.pdf"
 3. Если скрипт обнаружит подпись то откроется окно opencv, нажмите любую клавишу чтобы закрыть его.
+Метод основан на данной статье https://www.researchgate.net/publication/326271482_Detecting_handwritten_signatures_in_scanned_documents
